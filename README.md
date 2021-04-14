@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Filadelphila
+👋 Hi, I’m @Filadelphila
 
 <!---
 Filadelphila/Filadelphila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
